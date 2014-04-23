@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1397846615 source:d:\c\sfo\main.cpp
+	<iostream>
+	"sfo/sfo.h"
+
+1397846610 d:\c\sfo\sfo\sfo.h
+	<stdio.h>
+	<string.h>
+
+1397846180 source:d:\c\sfo\sfo\sfo.cpp
+	"sfo.h"
+
